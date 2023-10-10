@@ -9,4 +9,4 @@
 
 ### Esses exercicios foram realizados  com o objetivo de treinar lógica, estruturas condicionais, estruturas de repetições, manipulação de valores em array e conceito de regras de validação.
 
-#### Para testar, instale um deditor de código (VS code, Python, Thonny) em sua máquina , copie o código cole no editor, salve em qualquer pasta em seu computador.
+#### Para testar, instale um deditor de código (VS code, Python, Thonny) em sua máquina , clique na opção de clone do repósitorio ou copie o código cole no editor, salve em qualquer pasta em seu computador.
