@@ -5,7 +5,7 @@
 
 ### Python
 
-## Exercício de lógica: tipos primitivos, estrutura condicional, estrutura de repetição, array e validações.
+## Exercício de lógica: tipos primitivos, estruturas condicionais, estruturas de repetições, array e validações.
 
 ### Esses exercicios foram realizados  com o objetivo de treinar lógica, estruturas condicionais, estrutura de repetição, manipulação de valores em array e conceito de regras de validação.
 
