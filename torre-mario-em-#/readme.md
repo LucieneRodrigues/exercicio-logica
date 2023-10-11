@@ -1,9 +1,3 @@
-﻿
-
-![imagem_python](https://github.com/LucieneRodrigues/Torre_de_Mario/assets/105310968/f94a742c-322c-48d3-a947-83f148fda0b2) 
-### (Python)
-#### Este código foi criado  com o objetivo de treinar lógica e conceito de validação, pois  só aceita numeros no intervalo informado.
-
 #### Ao digitar um número aparece os caracteres '#' em formato de piramide, o tamanho da piramide será de acordo com o numero digitado.
 
 Ex:
