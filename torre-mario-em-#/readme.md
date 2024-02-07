@@ -2,7 +2,7 @@
 
 Ex:
 
-![console_torre_mario](https://github.com/LucieneRodrigues/Torre_de_Mario/assets/105310968/bba74354-b522-4023-8109-26c1e0c88b3e)
+![consoleTorreMario](https://github.com/LucieneRodrigues/exercicio-logica/assets/105310968/e500934d-da41-44c0-8e92-1c96243cdbfe)
 
 
 #### Esse exemplo foi criado após digitar o numero 8.
