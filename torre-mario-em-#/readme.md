@@ -7,5 +7,4 @@ Ex:
 
 #### Esse exemplo foi criado após digitar o numero 8.
 
-![imagem-torre-mario](https://github.com/LucieneRodrigues/Torre_de_Mario/assets/105310968/349cede6-f437-4078-9b10-ba04f6d05e1d)
 
