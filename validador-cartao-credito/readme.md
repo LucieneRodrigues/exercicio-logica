@@ -3,8 +3,8 @@
 #### Testa número de cartão de crédito para saber se o cartão é válido.
 ##### O exemplo abaixo mostra um número de cartão considerado válido, e a bandeira que ele pertence.
 
-![print_validador_cartao](https://github.com/LucieneRodrigues/Validador_cartao_de_credito/assets/105310968/e587fbc0-9f08-49dc-8048-4c329c1a387d)
 
+![ConsoleCrtaoCredito](https://github.com/LucieneRodrigues/exercicio-logica/assets/105310968/ead7f919-ee48-4a9e-966d-30ba949f7d39)
 
 
  A regra de validação, foi criada de acordo com a regra matematica do algoritmo de Luhn.
